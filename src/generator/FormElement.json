@@ -1,0 +1,38 @@
+[
+    {
+        "page_label": "Form Generator",
+        "fields": [
+            {
+                "field_id": "name",
+                "field_label": "Name",
+                "field_type": "text",
+                "field_value":"",
+                "field_placeholder": "Enter name",
+                "feild_mandatory": "yes"
+            },
+            {
+                "field_id": "email",
+                "field_label": "Email",
+                "field_type": "email",
+                "field_value":"",
+                "field_placeholder": "Enter Mail Id",
+                "feild_mandatory": "yes"
+            },
+            {
+                "field_id": "select",
+                "field_label": "Select",
+                "field_type": "select",
+                "field_mandatory": "yes",
+                "field_value":"1",
+                "field_options": [
+                    {
+                        "op_label": "1"
+                    },
+                    {
+                        "op_label": "2"
+                    }
+                ]
+            }
+        ]
+    }
+]
