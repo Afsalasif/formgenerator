@@ -18,6 +18,7 @@
                 "field_value":"",
                 "field_placeholder": "Enter Mail Id",
                 "feild_mandatory": "yes"
+                "field_dep":"name"
             },
             {
                 "field_id": "select",
