@@ -8,8 +8,9 @@
                 "field_type": "text",
                 "field_value":"",
                 "field_placeholder": "Enter name",
-                "feild_mandatory": "yes"
-                "field_dep":"yaas"
+                "field_mandatory": "yes",
+                "field_dep":"yaas",
+                "dep_condition":"afsal"
             },
             {
                 "field_id": "email",
