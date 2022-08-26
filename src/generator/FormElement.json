@@ -10,7 +10,7 @@
                 "field_placeholder": "Enter name",
                 "field_mandatory": "yes",
                 "field_dep":"yaas",
-                "dep_condition":"afsal"
+                "dep_cond":"afsal"
             },
             {
                 "field_id": "email",
